@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+*.pyc
+*.log
+*.log.*
+start.sh
+test.py
+upload/
+file/
+logs/
+venv/
+*.png
+rule/crawler/process/*
+rule/store/process/jzy/*
