@@ -9,6 +9,6 @@ upload/
 file/
 logs/
 venv/
-*.png
+/*.png
 rule/crawler/process/*
 rule/store/process/jzy/*
